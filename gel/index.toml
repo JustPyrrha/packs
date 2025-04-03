@@ -171,11 +171,6 @@ hash = "2149d16d83152388597a0d412ef5e2667bb6c00bfb3d4bd36455f40858c8b345"
 metafile = true
 
 [[files]]
-file = "mods/rechiseled.pw.toml"
-hash = "fc609e79d2bf0266f9bd2c88a3a9e6ffcb7d4bbd297164cce708ae7eb83916c7"
-metafile = true
-
-[[files]]
 file = "mods/shadowfacts-forgelin.pw.toml"
 hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
