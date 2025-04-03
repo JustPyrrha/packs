@@ -166,11 +166,6 @@ hash = "a8fe077fcd4e3b3e93109ecf3e1207e14d21e13fdbc41daa2a285fce873e3d4f"
 metafile = true
 
 [[files]]
-file = "mods/patpatpat.pw.toml"
-hash = "2149d16d83152388597a0d412ef5e2667bb6c00bfb3d4bd36455f40858c8b345"
-metafile = true
-
-[[files]]
 file = "mods/shadowfacts-forgelin.pw.toml"
 hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
