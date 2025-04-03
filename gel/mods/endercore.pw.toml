@@ -1,0 +1,13 @@
+name = "EnderCore"
+filename = "EnderCore-1.12.2-0.5.78.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oJcFXakG/versions/ObLYMdMS/EnderCore-1.12.2-0.5.78.jar"
+hash-format = "sha512"
+hash = "0ade2184b723b9923ac132b0a753c70ffc2d581587321b9d56277f70f095daaf1106f226cf11f524b0632076df4787e369b832a3ff1fdbc8f4c09322f8dc933a"
+
+[update]
+[update.modrinth]
+mod-id = "oJcFXakG"
+version = "ObLYMdMS"

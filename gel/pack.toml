@@ -1,0 +1,13 @@
+name = "gel"
+author = "py"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4c43e52da8e20bd6fb92286e4542e8482bc0386b89b042f435e17ec924b448b4"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

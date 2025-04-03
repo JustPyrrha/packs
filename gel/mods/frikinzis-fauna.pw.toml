@@ -1,0 +1,13 @@
+name = "Frikinzi's Fauna"
+filename = "frikinzis-fauna-1.4.0-1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OsLkXa0u/versions/KqSPQ4Uv/frikinzis-fauna-1.4.0-1.12.2.jar"
+hash-format = "sha512"
+hash = "c05ef749c3082af10d68046331974633924a62bcbf9535e1eff165289fa4fca47a7672b91aa84488e7bdae60a2eab52820996ef0bf2cdfe29b1dbedfa5f63ee8"
+
+[update]
+[update.modrinth]
+mod-id = "OsLkXa0u"
+version = "KqSPQ4Uv"

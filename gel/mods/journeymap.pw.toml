@@ -1,0 +1,13 @@
+name = "JourneyMap"
+filename = "journeymap-1.12.2-5.7.1p3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/pRRSLHVt/journeymap-1.12.2-5.7.1p3.jar"
+hash-format = "sha512"
+hash = "aad1d4f22ab61db3612c88acb9d47ffcd026ef65ea2aef9e2f2db229a9815469ca4a44cafec07871c9db69fac68759bfe38c229da019b2064ea42827cb4d60d3"
+
+[update]
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "pRRSLHVt"
