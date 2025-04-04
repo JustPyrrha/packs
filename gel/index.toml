@@ -11,6 +11,11 @@ hash = "8c56ff242b4104361a43c9f77a03cb3d1f1234daa11ce369db8b119021fdfcc2"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "cb7c8abeaf45f8981e79ae05e3e16c9d50949f2b3289cf2e59d9252ece752739"
+metafile = true
+
+[[files]]
 file = "mods/baubles.pw.toml"
 hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
@@ -163,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "a8fe077fcd4e3b3e93109ecf3e1207e14d21e13fdbc41daa2a285fce873e3d4f"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "20c69833ab1070d44599e14db7069a0e1232c490f2988378065d8708cabdf2ad"
 metafile = true
 
 [[files]]
