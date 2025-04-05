@@ -11,6 +11,11 @@ hash = "8c56ff242b4104361a43c9f77a03cb3d1f1234daa11ce369db8b119021fdfcc2"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "c9711625615d000b33b2c8d2136cefb187933cdd2cfe798a6bcbc3d888cf051d"
+metafile = true
+
+[[files]]
 file = "mods/aroma1997core.pw.toml"
 hash = "e111fd8717b5a9143d41d53e50c7c16f80ab074d76e256094229070b942b4cd3"
 metafile = true
@@ -88,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/equipment-compare.pw.toml"
 hash = "6e6d20d1129ed0e10e68a89ac6eb340146d312bfc5395ada658c4d88c3308589"
+metafile = true
+
+[[files]]
+file = "mods/extra-cells-2-samlam140330s-fork.pw.toml"
+hash = "c481689630aa1866bfd65db872f0b3ea3ad10c02a3dd3762760fa538fab85cbd"
 metafile = true
 
 [[files]]
