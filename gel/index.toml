@@ -116,6 +116,11 @@ hash = "f5be8ac1e7132654059cf56ee0eafff9202c573c2adcc8be538f250c0ddcb859"
 metafile = true
 
 [[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "5d90061faebf311cc041f5459f8e34bc70b3ca90110c24b50f4ca80341cd57f9"
 metafile = true
