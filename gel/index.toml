@@ -111,6 +111,11 @@ hash = "6728b14187b2ec56e17e2b7676187fd9ca6ec4ec802084d71d6d30d3ed07315a"
 metafile = true
 
 [[files]]
+file = "mods/hwyla.pw.toml"
+hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
+metafile = true
+
+[[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "f5be8ac1e7132654059cf56ee0eafff9202c573c2adcc8be538f250c0ddcb859"
 metafile = true
@@ -118,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "444c9ed4f70cc87dab29246de73ee03c069ed3dbb13967d2576ad8b96bd1e504"
 metafile = true
 
 [[files]]
@@ -213,11 +223,6 @@ metafile = true
 [[files]]
 file = "mods/tesla-core-lib.pw.toml"
 hash = "a59ce34f44040f07fdd4cd7df09113ef13790166abe529ab5556322da7bd6363"
-metafile = true
-
-[[files]]
-file = "mods/the-one-probe.pw.toml"
-hash = "06aecc9d2dbbb2b19a3774fa8e7505b5a65f1f47b18a2f9fc24bca2348e0455a"
 metafile = true
 
 [[files]]
