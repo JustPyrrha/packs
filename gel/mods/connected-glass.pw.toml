@@ -1,13 +1,13 @@
 name = "Connected Glass"
-filename = "connectedglass-1.1.12-forge-mc1.12.jar"
+filename = "connectedglass-1.1.13-forge-mc1.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DghO0R02/versions/Q36pJiap/connectedglass-1.1.12-forge-mc1.12.jar"
+url = "https://cdn.modrinth.com/data/DghO0R02/versions/VaIgvxPF/connectedglass-1.1.13-forge-mc1.12.jar"
 hash-format = "sha512"
-hash = "69499ff9a0fe381b7211e42dca6b970f0baaadc059931db1cc99c0e300008cb05fae5c1f5e6477bb95a06765e1de5a056d1c74566a85a26a6de98adf7add05ab"
+hash = "4b46119591ded0815e8950c705db371581fb017a25012ea4a4bdaeaa8c661fc1e5fe336c9fd3d8c07a0b773f837a2d40e5985ae79c85b04b82aa713c6f05c877"
 
 [update]
 [update.modrinth]
 mod-id = "DghO0R02"
-version = "Q36pJiap"
+version = "VaIgvxPF"
