@@ -1,0 +1,7 @@
+name = "headpatafriend"
+filename = "headpats-1.0.6+1.21.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/vETxChiy/versions/s4qXNcqK/headpats-1.0.6%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "d5752de8891c12684343c2300370ec204deb47872a1ebca963e8e3b9b10dea3b"

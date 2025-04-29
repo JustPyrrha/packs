@@ -1,0 +1,7 @@
+name = "fwaystones"
+filename = "wraith-waystones-3.3.4+mc1.21.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/sTZr7NVo/versions/LUSqgrjd/wraith-waystones-3.3.4%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "8bd5c0a7208d9ed7ea7b0bb973a55b96fae6f91f61bb7d09b6b06c4101aa7bc9"

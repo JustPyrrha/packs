@@ -1,0 +1,7 @@
+name = "cerulean"
+filename = "cerulean-1.1.5.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/a6qSiVxz/versions/UILy9Yvs/cerulean-1.1.5.jar"
+hash-format = "sha256"
+hash = "0f188008390e5dfac48159ea905fbd0b4f27b6af7d8d1becca4212d940af6ebd"

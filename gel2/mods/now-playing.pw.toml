@@ -1,0 +1,13 @@
+name = "Now Playing"
+filename = "now-playing-neoforge-1.5.14+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eNF4Bfla/versions/6rlCEmaP/now-playing-neoforge-1.5.14%2B1.21.jar"
+hash-format = "sha512"
+hash = "5fb0bd75790552b9bb8964f1280b6ee62434cf0b37e9855442c18ce1952905fd2b20fc384241e122516431200a3b3c8a30a7937d080b1144da8d33ef78cfd7d6"
+
+[update]
+[update.modrinth]
+mod-id = "eNF4Bfla"
+version = "6rlCEmaP"

@@ -1,0 +1,7 @@
+name = "barkeep"
+filename = "barkeep-0.0.5-bc25.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/TFwl8Z4h/versions/ReGTTDdF/barkeep-0.0.5-bc25.jar"
+hash-format = "sha256"
+hash = "c50ffe652b58dd7c8deb01563ffa97ef4741f2a2c80b077c3b8497c86a326379"
