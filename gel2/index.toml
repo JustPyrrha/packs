@@ -71,11 +71,6 @@ hash = "b8446771b0d1d228cbc3034ef75e81e4e07627c74368624664acdf4daa9fbfba"
 metafile = true
 
 [[files]]
-file = "mods/cerulean.pw.toml"
-hash = "9c0bc597c22f383266665f77adf5c7ee99aeef04ce2e917d92c24e833e70a2bc"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
