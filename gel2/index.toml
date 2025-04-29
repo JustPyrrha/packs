@@ -46,11 +46,6 @@ hash = "b3d2af01947d4a2493355628b55ee00c3c646f39551eb28f12ff35079909700d"
 metafile = true
 
 [[files]]
-file = "mods/beebuddy.pw.toml"
-hash = "e62891fdeed60201a7528cf2a8506161f49fdd739eaba40974b9d632aad3b9cf"
-metafile = true
-
-[[files]]
 file = "mods/blur-plus.pw.toml"
 hash = "80e5ab79ece0ab24f29e80c9596149863380e614d6326d4faa76a3d6c6c9577a"
 metafile = true
