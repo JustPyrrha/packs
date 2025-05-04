@@ -1,0 +1,13 @@
+name = "Iron Shulker Boxes"
+filename = "ironshulkerbox-1.21-neoforge-7.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "159bb589e36d1eb9aa567b43b21575e66f875edf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5491246
+project-id = 314911

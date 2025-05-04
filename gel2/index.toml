@@ -206,8 +206,23 @@ hash = "c3c06a4839ecfd4717686f7394396a4fc66b7a2e8eabbdd51f23ab2a1099cc1e"
 metafile = true
 
 [[files]]
+file = "mods/iron-barrels.pw.toml"
+hash = "1e3d6cf652adf4097556ab6ec9243b5ce9f580770dc06a4d1a4f994dbfce24d3"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "89395dd9fcb8ae67889d991207cb95ed7158571c387dde88012853c5fa9ca3fb"
+metafile = true
+
+[[files]]
 file = "mods/iron-furnaces.pw.toml"
 hash = "b903fc0492b705158298073966c1564d7a92cf4730559b4c5e79af96260ef137"
+metafile = true
+
+[[files]]
+file = "mods/iron-shulker-boxes.pw.toml"
+hash = "0a002bdc27b001896a3301c03c33034e71aff9b28b17d66d4463b2e99a3434c7"
 metafile = true
 
 [[files]]
