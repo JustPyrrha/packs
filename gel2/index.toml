@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "b42ea604c46fc73d9474ebc9d6d3d64a1efe6b9d5df8512c71a86f820eb8a105"
+hash = "9c4b2aea191eb65b906db38999ac19a837c3ba39aef28ebe1f813307bdf47804"
 metafile = true
 
 [[files]]
