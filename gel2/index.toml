@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-netherite.pw.toml"
-hash = "46a3e89d8b17ef1564d323cb24a8ee8dbaf96d7b07324379d5bb0858e9996212"
+hash = "02ed8c223cdfa2b116a7a48475ccc636b7079f641828da7f52d79d041cfcc212"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "6b3bb4f1428d108f1d538b143be7567ea1b24b795e7ad8442bf77d6e1b5c6e7d"
+hash = "b3ee37b5c23bdea01384fc17b6b8ad85cf8604fa87f581dabda708e2248538db"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "88000c890b7a7920478782a6a722f8b4167e3ef3fd3326f2e5cdf6f9be5d4aa0"
+hash = "040ed27b5bac4555ad2770d3f8237670019284851875b8d03f602074afbf48e4"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "3d0defaa05f249638a4f43b84ae20294409b90b9f68b36e7a9aa771997129229"
+hash = "4b65bc889b87002a5afe4c236a54cf8c1dab11788df1807fa29abd74004cf696"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c3c06a4839ecfd4717686f7394396a4fc66b7a2e8eabbdd51f23ab2a1099cc1e"
+hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "652900870d343dda5683456934ca76bf176ea54da73d9883d8a13c9b3cae2fac"
+hash = "c9d048eafc4c07caf5ddbad536c1cfeff9e7a9094ce3e8016540fee9ac691db1"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "87fb28047d648087f2fe4891ddf9d3c394b9c5c29eaf4f3970fb7c32520e6fcf"
+hash = "686a952412f0e2949505def1b3da9bc9cc5bf32433cdd9d6cc8edc62ad979362"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2237772650b4c2efc5b436a7468f92a548cee8d8f8fe648340a3a1d30544d903"
+hash = "c04838367a04e8dcc47b33ff6353a30e2d68474d0f13fe4c1a347259fb106abd"
 metafile = true
 
 [[files]]
@@ -432,12 +432,12 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "167acde56f86d848efbbec713809ce3fa833030952acac473f6af9f9a1e98900"
+hash = "ab9955978f4157c6504ba12140d2af14260dadeed6abc92ec15698b24337b505"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "e2ab678518f876a978414ec1b9c88896d78dcc49ee7bfefa0acc165d5388c7be"
+hash = "aa9070a0e763f00f0d0b325e9bb980e53faabe9854bae25f2e542a7b81b7492e"
 metafile = true
 
 [[files]]
