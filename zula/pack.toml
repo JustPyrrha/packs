@@ -1,0 +1,13 @@
+name = "Zula"
+author = "py"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "402f881d0abb4e4f31973470cbf7d67972f10474a7fa6894b92ef1f335f7b934"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.209"
