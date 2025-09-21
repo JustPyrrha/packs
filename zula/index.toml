@@ -136,6 +136,11 @@ hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
 
 [[files]]
+file = "mods/lavender.pw.toml"
+hash = "76cbd3a19f99889d62ffa72f8a1d28048b9c5211e1a485f984b84d5843e8bda0"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
@@ -148,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
