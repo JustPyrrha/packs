@@ -1,0 +1,13 @@
+name = "Cobblemon: PlayerXP"
+filename = "playerxp-neoforge-1.0.1+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/zlrbPCvu/versions/xfWCGK7j/playerxp-neoforge-1.0.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "d635b28e8f750e72e1305c39c7d1cf95ebd4a4d5148fcf08aa62f5a9a2976da354ed2206a86e197ca004013981748c6abbe1299beab931f180ac1e31ced5d799"
+
+[update]
+[update.modrinth]
+mod-id = "zlrbPCvu"
+version = "xfWCGK7j"

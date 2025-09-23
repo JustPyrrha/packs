@@ -1,6 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/accessories-cc-layer.pw.toml"
+hash = "8f90a500df28d497fe7e323b40ee55640bc63141284ce2189a7766c976a91378"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "b1328c758ed239d638f1f912df918019fdf59eff8220ca4d8d45ac8a6f34711b"
+metafile = true
+
+[[files]]
+file = "mods/additional-lanterns.pw.toml"
+hash = "f3fad3a610f221a5a275f515708d27746680cfba626f2d37f490b77cb34b5a4d"
+metafile = true
+
+[[files]]
 file = "mods/antique-atlas-4.pw.toml"
 hash = "03ff831cb8084db62a0c1ce791091f4b119956b9f3bacfa140ba4689cfd978a8"
 metafile = true
@@ -36,6 +51,21 @@ hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
+file = "mods/cobble-caf-forms.pw.toml"
+hash = "732fa9c2f9af9b7c604c3b8b529a7ab71568bb7c4910d616510436f72292f490"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-box-link.pw.toml"
+hash = "bd507376d642397a91270f81e2107a0100a1124f001e96c8ff3a9fb47ed4e82c"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-capture-xp.pw.toml"
+hash = "2fc0925f012e676e461bcd8b0ed00ab7484984d7e117df7a72b49a2373d08a59"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-integrations.pw.toml"
 hash = "d21c41437169bb49b9b92bc97a2f05daa45bcd56744f590a2a858840a5f56044"
 metafile = true
@@ -46,8 +76,33 @@ hash = "29797e0e80690ad6c60862080b4f5d29991090ebccd096e2ed750aedde828f08"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-legendary-structures.pw.toml"
+hash = "f94003c8ed9f325625d6d98e0ac7eb643ecf0a2826fea919cf8f5db936f57c87"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-mass-outbreaks.pw.toml"
+hash = "e4132572e5b4d2a2143cf16fc8d9cf8391a4392cf1545343b31a28e36d4a03f5"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-mega-showdown.pw.toml"
+hash = "92b785cf953bb09b2629dde4d160c47cfabafad5c725976d69dcc524dc1add58"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-playerxp.pw.toml"
+hash = "cf7084758cfc61e7fb890c4c41fd04985c50332405d4711ae8fde7fbe6a1e1d8"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-ride-on.pw.toml"
 hash = "63d78f5b82e034c0ba8dde7baeaa941466996125bbd67f996aab2f3e279afa4b"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-safepastures.pw.toml"
+hash = "dc57f84629e7d62af6afed5f3ce52ba73f3ccbbb6f047977bc49822939c42ab5"
 metafile = true
 
 [[files]]
@@ -56,8 +111,18 @@ hash = "f71e6b92301b7abb8925f2482131ed1b9c2f77dfe46a69ba373670ac4f5befac"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-tim-core.pw.toml"
+hash = "50b5e7619e363596c42ce9dec83dd22960f2da812d615c58ed292087e1639e93"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "e3cb1eb238192071af93f764e3ff2c493f4f437802bb56273f664bafdea13f1d"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonextrastructures.pw.toml"
+hash = "c86667d2734cc5f6cb4430db6485a709b828ae48abfaac7c28b99e6eeab5a520"
 metafile = true
 
 [[files]]
@@ -176,6 +241,11 @@ hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
 
 [[files]]
+file = "mods/hiddenmons-cobblemon.pw.toml"
+hash = "d2e4214bbe6f93f7f95f688989ee296b419b7dba10dee858abb346ae73b4cfbe"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
@@ -188,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "902885152af5e5f33b557f7c0e4a3fc3f1fef74dc221b45502716c1ab7e8fc96"
+metafile = true
+
+[[files]]
+file = "mods/joy.pw.toml"
+hash = "66c33eb3b7d15d19181317296ddc836259981a0198a56ac4d2138245f07b6342"
 metafile = true
 
 [[files]]
@@ -251,6 +326,16 @@ hash = "19d7d299d52942cab258070acda213a80d9f9880e86b2c66d22feb2782e2baea"
 metafile = true
 
 [[files]]
+file = "mods/rctapi.pw.toml"
+hash = "b3f4cf081b88bfe942f30318296ef3dd6005ae295ba0a22459e3a4a75cd02c96"
+metafile = true
+
+[[files]]
+file = "mods/rctmod.pw.toml"
+hash = "512cba31224a76a1eccb6dc545426b5952330ebc9c8daa26957fce2a31b68e21"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
@@ -271,6 +356,11 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "2c297fb87d09bd4203399e865d48a10aa82016c53b6767b10b43726e111a3566"
+metafile = true
+
+[[files]]
 file = "mods/surveyor.pw.toml"
 hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
 metafile = true
@@ -278,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "7b9d8b2cd26fa320b7d40b0c68b85f3ae0c1516f896239bf5d9ede1f90761be1"
+metafile = true
+
+[[files]]
+file = "mods/tsfitemcore.pw.toml"
+hash = "faa2f0fb710f5cd0cd74ca4fc78f56e09968d59f89c942a5777e226ffd54a321"
 metafile = true
 
 [[files]]
