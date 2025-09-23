@@ -266,11 +266,6 @@ hash = "902885152af5e5f33b557f7c0e4a3fc3f1fef74dc221b45502716c1ab7e8fc96"
 metafile = true
 
 [[files]]
-file = "mods/joy.pw.toml"
-hash = "66c33eb3b7d15d19181317296ddc836259981a0198a56ac4d2138245f07b6342"
-metafile = true
-
-[[files]]
 file = "mods/knowlogy.pw.toml"
 hash = "5519ac418243f4157d73056955a9d7cac7c22ad80c0881d7ce5d147a5565af26"
 metafile = true

@@ -1,8 +1,0 @@
-name = "joy"
-filename = "joy-fabric-1.0.0-alpha.10+mc.1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/qwgCXyzw/versions/ftDV31SE/joy-fabric-1.0.0-alpha.10%2Bmc.1.21.1.jar"
-hash-format = "sha256"
-hash = "3b2f6313adb5882385011a3db04b8f6f7eb1beb0240c33cbb69442bfa1125d4e"
