@@ -226,11 +226,6 @@ hash = "f407238ae37effcd669f828b80a7246e805bc099b4848cd550b1d2d428fea78b"
 metafile = true
 
 [[files]]
-file = "mods/flames-create-netherrack.pw.toml"
-hash = "d54bd889f5b5c09812c704ff66edcbccdf7bff96d23b3d9fa4921308180b4daf"
-metafile = true
-
-[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "7afdc4a1e9619ea434e5c5a05819dd12653978d0781eaeb1fa6257086c79e827"
 metafile = true
