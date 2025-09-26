@@ -146,6 +146,16 @@ hash = "88f0ed2720f25b03440898c6f953bb50e709fc9f5af6cd376b98977b1d40c275"
 metafile = true
 
 [[files]]
+file = "mods/create-renewable-brass.pw.toml"
+hash = "9f19af5ab4dd3fa7a3e76884b6c6c81b626c4de6b9f9e5873a4f49e0e5e43b20"
+metafile = true
+
+[[files]]
+file = "mods/create-stones.pw.toml"
+hash = "5e27d23ab07532da7bb1d9e19ce94fc1f8dad1924b61f980306d3822aeb7cd9c"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
 metafile = true
